@@ -10,8 +10,8 @@
     "url": "https://cozysoft.eu"
   },
   "items": [{
-      "id": "https://cozysoft.eu/cozysoft.eu/posts/de/helloworld/",
-      "url": "https://cozysoft.eu/cozysoft.eu/posts/de/helloworld/",
+      "id": "https://cozysoft.eu/posts/de/helloworld/",
+      "url": "https://cozysoft.eu/posts/de/helloworld/",
       "title": "Hallo, Welt!",
       "content_html": "<p>Hallo, Welt!</p>\n<p>Mein Name ist Jean-Luc Nürrenberg (auch genannt cozyGalvinism oder kurz <strong>cozy</strong>) und ich bin ein Softwareentwickler aus Deutschland!<br>\nIch entwickle seit etwa 14 Jahren Software für private und kommerzielle Zwecke, sowohl im Open Source- als auch im Closed Source-Umfeld und spezialisiere mich hauptsächlich auf Schnittstellen-Software und Backend-Entwicklung.<br>\nZu meinen Fähigkeiten zählen mehrere Programmiersprachen wie Rust, Python und C#, SQL-Datenbanken wie MySQL, PostgreSQL und SQLite als auch NoSQL-Datenbanken wie MongoDB oder LiteDB.</p>\n<p>Ich bin als IT-Developer bei der Bon Mercato GmbH in Vollzeit tätig und werde die Softwareschmiede in meiner Freizeit leiten.</p>\n<p>Genug über mich :)</p>\n<p>Herzlich willkommen in cozy’s Softwareschmiede!<br>\nHier finden Sie Informationen zu meinen laufenden und abgeschlossenen Projekten, so wie informative Beiträge zu neuen Technologien, welche ich versuche in zukünftigen Projekten einzubringen.</p>\n<p>Zum Zeitpunkt des Releases dieses Beitrags nehme ich durch Auslastung in meiner Haupttätigkeit noch keine Projekte an, dies wird sich jedoch in Zukunft ändern. Bitte gedulden Sie sich bis dahin.</p>\n<hr>\n<p>Ich wünsche noch einen angenehmen Rest-Juni und einen guten Start in den Juli!</p>\n<p>Viele Grüße,</p>\n<p>Jean-Luc “cozyGalvinism” Nürrenberg<br>\nInhaber</p>\n",
       "date_published": "2022-06-30T00:00:00Z"

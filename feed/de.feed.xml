@@ -3,7 +3,7 @@
 	<title>cozy&#39;s Softwareschmiede</title>
 	<subtitle>Softwareentwicklung mit glühendem Eisen</subtitle>
 	
-	<link href="https://cozysoft.eu/cozysoft.eu/feed/de.feed.xml" rel="self"/>
+	<link href="https://cozysoft.eu/feed/de.feed.xml" rel="self"/>
 	<link href="https://cozysoft.eu"/>
 	<updated>2022-06-30T00:00:00Z</updated>
 	<id>cozysoft.eu</id>
@@ -14,9 +14,9 @@
 	
 	<entry>
 		<title>Hallo, Welt!</title>
-		<link href="https://cozysoft.eu/cozysoft.eu/posts/de/helloworld/"/>
+		<link href="https://cozysoft.eu/posts/de/helloworld/"/>
 		<updated>2022-06-30T00:00:00Z</updated>
-		<id>https://cozysoft.eu/cozysoft.eu/posts/de/helloworld/</id>
+		<id>https://cozysoft.eu/posts/de/helloworld/</id>
 		<content type="html">&lt;p&gt;Hallo, Welt!&lt;/p&gt;
 &lt;p&gt;Mein Name ist Jean-Luc Nürrenberg (auch genannt cozyGalvinism oder kurz &lt;strong&gt;cozy&lt;/strong&gt;) und ich bin ein Softwareentwickler aus Deutschland!&lt;br /&gt;
 Ich entwickle seit etwa 14 Jahren Software für private und kommerzielle Zwecke, sowohl im Open Source- als auch im Closed Source-Umfeld und spezialisiere mich hauptsächlich auf Schnittstellen-Software und Backend-Entwicklung.&lt;br /&gt;

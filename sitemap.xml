@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/cozysoft.eu/posts/de/helloworld/</loc>
+    <loc>/posts/de/helloworld/</loc>
     <lastmod>2022-06-30</lastmod>
   </url>
   
   <url>
-    <loc>/cozysoft.eu/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2022-06-30</lastmod>
   </url>
   
   <url>
-    <loc>/cozysoft.eu/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2022-06-30</lastmod>
   </url>
   
   <url>
-    <loc>/cozysoft.eu/impressum/</loc>
+    <loc>/impressum/</loc>
     <lastmod>2022-06-30</lastmod>
   </url>
   
   <url>
-    <loc>/cozysoft.eu/</loc>
+    <loc>/</loc>
     <lastmod>2022-06-30</lastmod>
   </url>
   
   <url>
-    <loc>/cozysoft.eu/datenschutz/</loc>
+    <loc>/datenschutz/</loc>
     <lastmod>2022-06-30</lastmod>
   </url>
   
   <url>
-    <loc>/cozysoft.eu/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2022-06-30</lastmod>
   </url>
   
   <url>
-    <loc>/cozysoft.eu/tags/wichtig/</loc>
+    <loc>/tags/wichtig/</loc>
     <lastmod>2022-06-30</lastmod>
   </url>
   
   <url>
-    <loc>/cozysoft.eu/tags/projektstatus/</loc>
+    <loc>/tags/projektstatus/</loc>
     <lastmod>2022-06-30</lastmod>
   </url>
 </urlset>
