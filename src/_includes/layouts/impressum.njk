@@ -1,0 +1,12 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-impressum
+---
+
+<div class="p-impressum">
+    <h1 class="p-impressum_title">{{ impressum[locale].title | capitalize }}</h1>
+
+    <div role="main" class="c-content">
+        {{ content | safe }}
+    </div>
+</div>

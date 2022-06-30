@@ -1,0 +1,12 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-privacy
+---
+
+<div class="p-privacy">
+    <h1 class="p-privacy_title">{{ privacy[locale].title | capitalize }}</h1>
+
+    <div role="main" class="c-content">
+        {{ content | safe }}
+    </div>
+</div>
