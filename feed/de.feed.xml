@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>cozy&#39;s Softwareschmiede</title>
+	<subtitle>Softwareentwicklung mit glühendem Eisen</subtitle>
+	
+	<link href="https://cozysoft.eu/cozysoft.eu/feed/de.feed.xml" rel="self"/>
+	<link href="https://cozysoft.eu"/>
+	<updated>2022-06-30T00:00:00Z</updated>
+	<id>cozysoft.eu</id>
+	<author>
+		<name>cozyGalvinism</name>
+		<email>contact@cozysoft.eu</email>
+	</author>
+	
+	<entry>
+		<title>Hallo, Welt!</title>
+		<link href="https://cozysoft.eu/cozysoft.eu/posts/de/helloworld/"/>
+		<updated>2022-06-30T00:00:00Z</updated>
+		<id>https://cozysoft.eu/cozysoft.eu/posts/de/helloworld/</id>
+		<content type="html">&lt;p&gt;Hallo, Welt!&lt;/p&gt;
+&lt;p&gt;Mein Name ist Jean-Luc Nürrenberg (auch genannt cozyGalvinism oder kurz &lt;strong&gt;cozy&lt;/strong&gt;) und ich bin ein Softwareentwickler aus Deutschland!&lt;br /&gt;
+Ich entwickle seit etwa 14 Jahren Software für private und kommerzielle Zwecke, sowohl im Open Source- als auch im Closed Source-Umfeld und spezialisiere mich hauptsächlich auf Schnittstellen-Software und Backend-Entwicklung.&lt;br /&gt;
+Zu meinen Fähigkeiten zählen mehrere Programmiersprachen wie Rust, Python und C#, SQL-Datenbanken wie MySQL, PostgreSQL und SQLite als auch NoSQL-Datenbanken wie MongoDB oder LiteDB.&lt;/p&gt;
+&lt;p&gt;Ich bin als IT-Developer bei der Bon Mercato GmbH in Vollzeit tätig und werde die Softwareschmiede in meiner Freizeit leiten.&lt;/p&gt;
+&lt;p&gt;Genug über mich :)&lt;/p&gt;
+&lt;p&gt;Herzlich willkommen in cozy’s Softwareschmiede!&lt;br /&gt;
+Hier finden Sie Informationen zu meinen laufenden und abgeschlossenen Projekten, so wie informative Beiträge zu neuen Technologien, welche ich versuche in zukünftigen Projekten einzubringen.&lt;/p&gt;
+&lt;p&gt;Zum Zeitpunkt des Releases dieses Beitrags nehme ich durch Auslastung in meiner Haupttätigkeit noch keine Projekte an, dies wird sich jedoch in Zukunft ändern. Bitte gedulden Sie sich bis dahin.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Ich wünsche noch einen angenehmen Rest-Juni und einen guten Start in den Juli!&lt;/p&gt;
+&lt;p&gt;Viele Grüße,&lt;/p&gt;
+&lt;p&gt;Jean-Luc “cozyGalvinism” Nürrenberg&lt;br /&gt;
+Inhaber&lt;/p&gt;
+</content>
+	</entry>
+</feed>
