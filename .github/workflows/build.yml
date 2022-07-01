@@ -26,6 +26,7 @@ jobs:
         run: |
           npm ci
           npm run build:github
+          echo "cozysoft.eu" > ./_site/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
