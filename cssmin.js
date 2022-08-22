@@ -12,4 +12,4 @@ const cssFile = fs.readFileSync(CSSFILE, 'utf-8');
 const minified = new CleanCss({}).minify(cssFile).styles;
 
 fs.unlinkSync(CSSFILE);
-fs.writeFileSync(MINIFIED_CSSFILE, minified);
+fs.writeFileSync(CSSFILE, minified);
