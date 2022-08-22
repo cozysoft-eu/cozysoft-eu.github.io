@@ -31,7 +31,7 @@
         <meta name="theme-color" content="#bbece0">
 
         {% if projEnv.eleventy === "production" %}
-            {% set link = "/assets/css/" + csshash.indexCSS %}
+            {% set link = "/assets/css/index.css" %}
             <link rel="preload" href="{{ link | url }}" as="style" />
             <link rel="stylesheet" href="{{ link  | url }}" type="text/css" />
         {% else %}
