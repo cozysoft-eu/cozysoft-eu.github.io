@@ -16,9 +16,19 @@
         {% set appleTouchIcon = "/static/apple-touch-icon.png" | url %}
         {% set favicon32 = "/static/favicon-32x32.png" | url %}
         {% set favicon16 = "/static/favicon-16x16.png" | url %}
+        {% set webmanifest = "/static/site.webmanifest" | url %}
+        {% set maskIcon = "/static/safari-pinned-tab.svg" | url %}
+        {% set shortcutIcon = "/static/favicon.ico" | url %}
+        {% set msapplicationConfig = "/static/browserconfig.xml" | url %}
         <link rel="apple-touch-icon" sizes="180x180" href="{{ appleTouchIcon }}">
         <link rel="icon" type="image/png" sizes="32x32" href="{{ favicon32 }}">
         <link rel="icon" type="image/png" sizes="16x16" href="{{ favicon16 }}">
+        <link rel="manifest" href="{{ webmanifest }}">
+        <link rel="mask-icon" href="{{ maskIcon }}" color="#5bbad5">
+        <link rel="shortcut icon" href="{{ shortcutIcon }}">
+        <meta name="msapplication-TileColor" content="#bbece0">
+        <meta name="msapplication-config" content="{{ msapplicationConfig }}">
+        <meta name="theme-color" content="#bbece0">
 
         {% if projEnv.eleventy === "production" %}
             {% set link = "/assets/css/" + csshash.indexCSS %}
@@ -45,5 +55,10 @@
         {% include "components/footer.njk" %}
 
         <script type="module" src="{{ '/assets/js/bundle.js' | url }}"></script>
+        <script>
+            if ('serviceWorker' in navigator) {
+                navigator.serviceWorker.register('/sw.js');
+            }
+        </script>
     </body>
 </html>
