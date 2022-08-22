@@ -20,7 +20,7 @@ Ich werde dort als Kunde zu finden sein und zusätzlich dazu mit den Entwicklern
 
 Darüber hinaus werde ich im Anschluss unseres diesjährigen Jahreswechsels ein Hobbyprojekt beginnen, welches ich hoffentlich dann nächstes Jahr beim nächsten SoftENGINE-Event vorzeigen kann. Ich erhoffe mir dadurch dass ich den Bereich der Softwareentwicklung an weitere Personen nahe bringen kann, um die WEBWARE zu ergänzen. Wie genau das Projekt aussieht, ist noch nicht klar, allerdings soll es entweder etwas absurdes oder etwas nützliches sein.
 
-Eine Idee für *absurdes* wäre eine Virtual-Reality-Oberfläche für die WEBWARE, eine Idee für *nützliches* wäre jedoch ein asynchrones Datenaustauschsystem, powered by Redis und den WEBWARE Webservices. Vielleicht arbeite ich auch an beidem und zeige das absurde nur als Eröffnungsgag :wink:.
+Eine Idee für *absurdes* wäre eine Virtual-Reality-Oberfläche für die WEBWARE, eine Idee für *nützliches* wäre jedoch ein asynchrones Datenaustauschsystem, powered by Redis und den WEBWARE Webservices. Vielleicht arbeite ich auch an beidem und zeige das absurde nur als Eröffnungsgag 😉.
 
 ---
 
