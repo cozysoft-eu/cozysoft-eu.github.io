@@ -8,6 +8,7 @@
         </p>
     </section>
     <section class="p-index_latest">
+        {% set feedUrl = '/feed/' + locale + '.feed.xml' %}
         <h2 class="u-mb--16">
             {% set maxPosts = collections.posts.length | min(3) %}
             {% if maxPosts == 1 %}
@@ -15,6 +16,7 @@
             {% else %}
                 {{ main[locale].posts }}
             {% endif %}
+            <a href="{{ feedUrl | url }}" target="_blank" title="RSS-Feed">{% include "icons/rss.svg" %}</a>
         </h2>
         <ul class="c-posts-list">
             {% set postslist = collections.posts | head(3) %}
