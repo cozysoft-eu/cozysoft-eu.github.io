@@ -3,7 +3,7 @@
         <span class="c-logo">cozy's Softwareschmiede</span>
     </a>
     <nav role="navigation" class="c-nav">
-        {% set navPages = collections.all | eleventyNavigation %}
+        {% set navPages = collections.all | forLocale(locale) | eleventyNavigation %}
         {% macro renderNavListItem(entry) -%}
         <li class="c-nav-list_item{% if entry.url == page.url %} c-nav-list_item--active{% endif %}">
             {% if entry.url == page.url %}
@@ -21,6 +21,17 @@
 
         <ul class="c-nav-list">
             {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+            <li class="c-nav-list_item">
+                <span class="c-simple-link normal-cursor">{{ metadata[locale].languageLabel }}</span>
+                <ul class="c-nav-list_submenu">
+                    <li class="c-nav-list_submenu_item{% if entry.locale == locale %} c-nav-list_submenu_item--active{% endif %}">
+                        <a class="c-simple-link" href="/">{{ metadata["de"].language }}</a>
+                    </li>
+                    <li class="c-nav-list_submenu_item{% if entry.locale == locale %} c-nav-list_submenu_item--active{% endif %}">
+                        <a class="c-simple-link" href="/en">{{ metadata["en"].language }}</a>
+                    </li>
+                </ul>
+            </li>
         </ul>
     </nav>
 </header>

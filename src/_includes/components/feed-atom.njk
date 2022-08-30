@@ -11,7 +11,7 @@
 		<name>{{ metadata[locale].author.name }}</name>
 		<email>{{ metadata[locale].author.email }}</email>
 	</author>
-	{%- for post in collections.posts | reverse %}
+	{%- for post in collections.posts | forLocale(locale) | reverse %}
 	{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata[locale].url) }}{% endset %}
 	<entry>
 		<title>{{ post.data.title }}</title>

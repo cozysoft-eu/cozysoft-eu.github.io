@@ -1,7 +1,7 @@
 <div class="p-archive">
     <h1 class="p-acrhive_title">{{ archive[locale].title }}</h1>
 
-    {% set postslist = collections.posts %}
+    {% set postslist = collections.posts | forLocale(locale) %}
     {% if postslist | length %}
         <ul class="c-posts-list c-posts-list--archive">
             {% set includeImage = true %}

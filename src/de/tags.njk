@@ -12,7 +12,7 @@ pagination:
   addAllPagesToCollections: true
 layout: layouts/home.njk
 eleventyComputed:
-  title: Verschlagwortet “{{ tag }}”
+  title: "{{ metadata[locale].tags.verb }} “{{ tag }}”"
 permalink: /tags/{{ tag | slug }}/
 ---
 

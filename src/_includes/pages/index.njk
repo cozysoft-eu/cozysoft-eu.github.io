@@ -19,7 +19,7 @@
             <a href="{{ feedUrl | url }}" target="_blank" title="RSS-Feed">{% include "icons/rss.svg" %}</a>
         </h2>
         <ul class="c-posts-list">
-            {% set postslist = collections.posts | head(3) %}
+            {% set postslist = collections.posts | forLocale(locale) | head(3) %}
             {% include "components/blog-post-items.njk" %}
         </ul>
     </section>

@@ -44,6 +44,10 @@ module.exports = function(eleventyConfig) {
         return array.slice(0, n);
     });
 
+    eleventyConfig.addFilter("forLocale", (array, locale) => {
+        return array.filter(item => item.data.locale === locale);
+    });
+
     eleventyConfig.addFilter("min", (...numbers) => {
         return Math.min.apply(null, numbers);
     });
