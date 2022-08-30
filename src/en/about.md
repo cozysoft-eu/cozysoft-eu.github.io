@@ -7,11 +7,11 @@ eleventyNavigation:
     order: 2
 ---
 
-Mein Name ist Jean und ich bin leidenschaftlicher Softwareentwickler. Ich entwickle nun seit etwa 14 Jahren Software, ursprünglich nur für eigene Zwecke, heutzutage auch im Kundenauftrag.
+My name is Jean and I am a passionate software developer. I've been developing software for about 14 years now, originally only for my own purposes, nowadays also on behalf of customers.
 
-Ich bin OpenSource-Enthusiast und spezialisiere mich auf die Backend-Entwicklung, wobei ich auch Frontend entwickeln kann. Hierbei verwende ich Programmiersprachen wie Rust, Python, C# oder JavaScript um meine Ideen Wirklichkeit werden zu lassen. In der Frontend-Entwicklung verwende ich hauptsächlich Svelte (JavaScript), Avalonia (C#) oder WPF (C#).
-Ich spreche desweiteren fließend Englisch (Sprachlevel C1).
+I'm an OpenSource enthusiast and I specialize in backend development, although I can also develop frontend. I use programming languages like Rust, Python, C# or JavaScript to turn my ideas into reality. In frontend development I mainly use Svelte (JavaScript), Avalonia (C#) or WPF (C#).
+I also speak fluent English (level C1).
 
-In meiner Haupttätigkeit als IT-Developer entwickle ich In-House Softwarelösungen, welche hauptsächlich unsere ERP-Software BüroWARE an diverse Systeme anbinden.
+In my main job as an IT developer, I develop in-house software solutions, which mainly connect our ERP software BüroWARE to various systems.
 
-Im Juni 2022 gründete ich die Softwareschmiede, wo ich in meiner Freizeit Softwarelösungen entwickle und anbiete.
+In June 2022 I founded Softwareschmiede, where I develop and offer software solutions in my spare time.

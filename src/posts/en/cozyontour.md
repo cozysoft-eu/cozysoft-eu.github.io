@@ -1,5 +1,5 @@
 ---
-title: cozy on tour - SoftENGINE Sommerevent 2022
+title: cozy on tour - SoftENGINE summer event 2022
 description: Conversing with software partners on hot topics - literally
 date: 2022-08-22
 tags:
