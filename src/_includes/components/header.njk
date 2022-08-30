@@ -22,12 +22,12 @@
         <ul class="c-nav-list">
             {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
             <li class="c-nav-list_item">
-                <a class="c-simple-link" href="">{{ metadata[locale].languageLabel }}</a>
+                <span class="c-simple-link normal-cursor">{{ metadata[locale].languageLabel }}</span>
                 <ul class="c-nav-list_submenu">
-                    <li class="c-nav-list_item{% if entry.locale == locale %} c-nav-list_item--active{% endif %}">
+                    <li class="c-nav-list_submenu_item{% if entry.locale == locale %} c-nav-list_submenu_item--active{% endif %}">
                         <a class="c-simple-link" href="/">{{ metadata["de"].language }}</a>
                     </li>
-                    <li class="c-nav-list_item{% if entry.locale == locale %} c-nav-list_item--active{% endif %}">
+                    <li class="c-nav-list_submenu_item{% if entry.locale == locale %} c-nav-list_submenu_item--active{% endif %}">
                         <a class="c-simple-link" href="/en">{{ metadata["en"].language }}</a>
                     </li>
                 </ul>
