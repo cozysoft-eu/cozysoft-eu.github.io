@@ -10,7 +10,7 @@
     "url": "{{ metadata[locale].author.url }}"
   },
   "items": [
-    {%- for post in collections.posts | reverse %}
+    {%- for post in collections.posts | forLocale(locale) | reverse %}
     {%- set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata[locale].url) }}{% endset -%}
     {
       "id": "{{ absolutePostUrl }}",
