@@ -15,3 +15,7 @@ I also speak fluent English (level C1).
 In my main job as an IT developer, I develop in-house software solutions, which mainly connect our ERP software BüroWARE to various systems.
 
 In June 2022 I founded Softwareschmiede, where I develop and offer software solutions in my spare time.
+
+## Social Media
+
+Because there is a lot of trouble around Twitter at this time, <a>I have created a Mastodon account</a>. It will be used for private communication and as some sort of personal blog and will ignore requests and offers related to projects since work and spare time should be kept seperate.
