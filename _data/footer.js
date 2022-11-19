@@ -1,3 +1,5 @@
+const year = new Date().getFullYear();
+
 module.exports = {
     de: {
         madeWith: "made with",
@@ -6,5 +8,6 @@ module.exports = {
     en: {
         madeWith: "made with",
         sources: "sources",
-    }
+    },
+    year,
 };

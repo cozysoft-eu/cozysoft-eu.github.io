@@ -15,7 +15,3 @@ Ich spreche desweiteren fließend Englisch (Sprachlevel C1).
 In meiner Haupttätigkeit als IT-Developer entwickle ich In-House Softwarelösungen, welche hauptsächlich unsere ERP-Software BüroWARE an diverse Systeme anbinden.
 
 Im Juni 2022 gründete ich die Softwareschmiede, wo ich in meiner Freizeit Softwarelösungen entwickle und anbiete.
-
-## Social Media
-
-Da es momentan viel Wirbel um Twitter gibt, <a rel="me" href="https://mastodon.social/@cozyGalvinism">habe ich einen Mastodon-Account erstellt</a>. Er dient für meine private Kommunikation und als eine Art persönlichem Blog und wird Anfragen bezüglich Projekten ignorieren, da Arbeit und Freizeit getrennt sein sollen.
