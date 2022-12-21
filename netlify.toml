@@ -2,4 +2,4 @@
 for = "/.well-known/*"
 
 [headers.values]
-content-type = "application.json"
+content-type = "application/json"
