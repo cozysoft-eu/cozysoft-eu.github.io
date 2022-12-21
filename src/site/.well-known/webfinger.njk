@@ -1,0 +1,27 @@
+---
+permalink: /.well-known/webfinger
+eleventyExcludeFromCollections: true
+---
+{
+    "subject": "acct:cozyGalvinism@mastodon.social",
+    "aliases": [
+        "https://mastodon.social/@cozyGalvinism",
+        "https://mastodon.social/users/cozyGalvinism"
+    ],
+    "links": [
+        {
+            "rel": "http://webfinger.net/rel/profile-page",
+            "type": "text/html",
+            "href": "https://mastodon.social/@cozyGalvinism"
+        },
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://mastodon.social/users/cozyGalvinism"
+        },
+        {
+            "rel": "http://ostatus.org/schema/1.0/subscribe",
+            "template": "https://mastodon.social/authorize_interaction?uri={uri}"
+        }
+    ]
+}
