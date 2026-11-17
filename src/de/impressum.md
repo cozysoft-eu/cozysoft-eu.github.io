@@ -10,14 +10,11 @@ eleventyNavigation:
 Angaben gemäß § 5 TMG
 
 cozy's Softwareschmiede Jean-Luc Nürrenberg
-Bayreuther Straße 48
-91301 Forchheim
 
 **Vertreten durch:**
 Jean-Luc Nürrenberg
 
 **Kontakt:**
-Telefon: +49 176 82355995
 E-Mail: [info@cozysoft.eu](mailto:info@cozysoft.eu)
 
 ## Haftungsausschluss
